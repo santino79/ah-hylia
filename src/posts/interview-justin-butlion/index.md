@@ -1,12 +1,11 @@
 ---
-title: Interview with Justin Butlion
+title: Q&A with... Justin Butlion
 excerpt: Entrepreneur and Analytics Specialist
 date: 2019-03-24
 featured_image: /images/content/Justin-Butlion1.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _In this edition of the **Analysts Assemble** interview series, I speak to South African digital nomad and analytics specialist **Justin Butlion**. I started reading articles last year on Justin&#8217;s blog ProjectBI and was immediately struck by how practical and knowledgeable his advice and insight was. Not just in the **theory** of data and business intelligence but where it really matters &#8211; in the real business world._
 

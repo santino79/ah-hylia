@@ -1,13 +1,11 @@
 ---
-title: Interview with Wesley Engers
+title: Q&A with... Wesley Engers
 excerpt: Data Science, Math and Statistical Consultant
 date: 2019-10-19
 featured_image: /images/content/wesley_engers.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
-
+     - interviews
 ---
 _It's easy to get drawn into the misapprehension that all good analytics work is being done by in-house teams at large companies like Google and Facebook._
 

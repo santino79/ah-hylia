@@ -1,12 +1,11 @@
 ---
-title: Interview with Helen Anderson
+title: Q&A with... Helen Anderson
 excerpt: BI Data Analyst and Technical Consultant
 date: 2019-02-24
 featured_image: /images/content/helen_anderson.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _This interview in the **Analysts Assemble** series is with New Zealand-based BI Data Analyst and Technical Consultant, **Helen Anderson**. I first ran into Helen while she was writing an excellent [series on SQL][1] on Dev.to._
 

@@ -1,22 +1,12 @@
 ---
-title: Why I Unfollowed Everyone On Twitter
-date: 2022-01-08
-featured_image: /images/content/twitter-banner.png
-image_caption: 
-excerpt: 
-tags: 
-     - tech
-     - articles
-
-title: Christian Young
+title: Q&A with... Christian Young
 excerpt: Senior Data Analyst / Team Lead at Xero
 date: 2019-04-23
-author: [Alan Hylands]
-tags: [interview]
-draft: false
+featured_image: /images/content/christian-young.jpg
+image_caption: 
+tags: 
+     - interviews
 ---
-![Christian Young](img/christian-young.jpg)
-
 _New Zealand may be small in terms of population but their burgeoning tech scene is punching well above it&#8217;s weight when it comes to excellence in data and analytics. This week&#8217;s Analysts Assemble guest is **Christian Young**, a Wellington based senior analyst and team lead at accounting software company Xero. Christian takes us through his own route from privacy law and records management to managing his own BI reporting team._
 
 **Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**

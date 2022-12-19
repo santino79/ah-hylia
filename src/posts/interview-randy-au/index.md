@@ -1,12 +1,11 @@
 ---
-title: Interview with Randy Au
+title: Q&A with... Randy Au
 excerpt: Quantitative UX Researcher
 date: 2019-03-03
 featured_image: /images/content/randy_au.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _This **Analysts Assemble** interview is with self-confessed data nerd **Randy Au**, a Quantitative UX Researcher at Google Cloud. Randy&#8217;s career has taken him through several big names in the tech world but it was his article in [Towards Data Science](https://towardsdatascience.com), called [Succeeding As A Data Scientist At Small Companies / Startups](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c), that got my attention._
 

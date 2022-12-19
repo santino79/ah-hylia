@@ -1,12 +1,11 @@
 ---
-title: Interview with Jesse Pisel
+title: Q&A with... Jesse Pisel
 excerpt: Geo-Data Scientist
 date: 2019-03-17
 featured_image: /images/content/jesse_pisel.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _One of my favourite parts of doing the **Analysts Assemble** series is getting to find out more about data worlds that I would never ordinarily know exist. And this interview with **Jesse Pisel** is an excellent example of that. Jesse analyzes data in the geology and geospatial tech world and caught my eye with a series of geology-based data visualizations on Twitter. Let&#8217;s get into Jesse&#8217;s story in a little more detail._
 

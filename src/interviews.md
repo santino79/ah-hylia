@@ -1,4 +1,4 @@
 ---
 title: "Interviews with Data Professionals"
-layout: 'layouts/articles.njk'
+layout: 'layouts/interviews.njk'
 ---

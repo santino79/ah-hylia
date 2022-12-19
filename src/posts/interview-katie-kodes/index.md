@@ -1,12 +1,11 @@
 ---
-title: Interview with Katie Kodes
+title: Q&A with... Katie Kodes
 excerpt: Salesforce and Python Integrations Programmer
 date: 2019-04-07
 featured_image: /images/content/katie-kodes_600W_upd.png
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _My favourite finding in doing this **Analysts Assemble** series has been just how humble and genuinely helpful the data science community is. And this week&#8217;s guest is certainly no exception. I&#8217;d first read Katie&#8217;s excellent article on [SQL Joins](https://dev.to/katiekodes/every-sql-join-youll-ever-need-2hbd) on Dev.to and when fellow Dev blogger [Helen Anderson](https://analystsassemble.com/analysts-assemble-qa-helen-anderson/) recommended I speak to her for this series, I jumped at the opportunity. Katie takes us through her introduction to the world of programming, getting involved with the Salesforce eco-system and how she recommends people lift themselves, and others, up through building their overall skill-sets:_
 

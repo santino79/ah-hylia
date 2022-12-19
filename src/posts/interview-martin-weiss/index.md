@@ -1,12 +1,11 @@
 ---
-title: Interview with Martin Weiss
+title: Q&A with... Martin Weiss
 excerpt: Analytical Consultant and Project Manager
 date: 2019-04-23
 featured_image: /images/content/martin_weiss.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _We all know about Germany&#8217;s world-renowned reputation for efficiency and technological innovation. It&#8217;s no surprise then to find a tech superpower like Google using Hamburg as one of their main European bases. Based there is this week&#8217;s guest on **Analysts Assemble**, Analytical Consultant and Project Manager **Martin Weiss**. We dig into Martin&#8217;s path into the data world and see how he uses his marketing and business prowess, along with his technical skills, to help Google&#8217;s advertising clients._
 

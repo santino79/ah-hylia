@@ -1,12 +1,11 @@
 ---
-title: Interview with David Napoli
+title: Q&A with... David Napoli
 excerpt: Healthcare Analytics & Data Viz Consultant (and Recovering Rocket Scientist).
 date: 2019-11-18
 featured_image: /images/content/david-napoli.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _If you ever heard  an exasperated teacher tell you the concept you are failing to grasp "isn't rocket science", you'd be forgiven for rolling your eyes at the trite cliché. Not so with today's interviewee David Napoli. He actually knows exactly what rocket science is as a former aerospace engineer._
 

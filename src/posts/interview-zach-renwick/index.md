@@ -1,12 +1,11 @@
 ---
-title: Interview with Zach Renwick
+title: Q&A with... Zach Renwick
 date: 2019-04-14
 featured_image: /images/content/zach_renwick.jpg
 image_caption: 
 excerpt: Business Intelligence Developer
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _After speaking to this week&#8217;s guest on Analysts Assemble I&#8217;m more interested than ever in finding out just how many data professionals start their journey by studying Accounting at university before jacking it in as a career choice when the bright lights and high life of the financial services data world come calling. (Just like I did)._
 

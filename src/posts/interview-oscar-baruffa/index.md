@@ -1,12 +1,11 @@
 ---
-title: Interview with Oscar Baruffa
+title: Q&A with... Oscar Baruffa
 excerpt: Sustainability Professional and Data Specialist
 date: 2019-10-14
 featured_image: /images/content/oscar_baruffa.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _My wife thinks I spend too much time on Twitter. I tell her that it's not all football gossip and comedy memes but it's a hard sell sometimes. What I mainly use Twitter for though is keeping up to date with what other data professionals are doing in their day-to-day work._
 

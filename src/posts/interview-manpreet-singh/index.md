@@ -1,12 +1,11 @@
 ---
-title: Interview with Manpreet Singh
+title: Q&A with... Manpreet Singh
 excerpt: Analytics Lead and Forecasting Specialist
 date: 2019-11-10
 featured_image: /images/content/manpreet-singh.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _Back in early 2012, the UK-based bank I was working for decided to begin outsourcing a significant portion of it's technology and analytics capability to India. I was contracting with them as a senior data analyst under the umbrella of a BI and marketing strategy company I'd founded the year before with two other colleagues._
 

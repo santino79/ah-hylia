@@ -1,12 +1,11 @@
 ---
-title: Interview with Alli Torban
+title: Q&A with... Alli Torban
 excerpt: Data Visualization Designer and host of the Data Viz Today podcast.
 date: 2019-10-05
 featured_image: /images/content/alli-torban.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _Seeing as this week's Analyst in the spotlight has spent a considerable portion of her career working in both the FBI headquarters and the Pentagon, I'm going to be extra nice to her. Friends in high places and all that..._
 

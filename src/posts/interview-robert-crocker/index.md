@@ -1,12 +1,11 @@
 ---
-title: Interview with Robert Crocker
+title: Q&A with... Robert Crocker
 excerpt: Tableau and Data Visualization Consultant
 date: 2019-03-31
 featured_image: /images/content/robert-crocker.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
  
 _Analysing data has come a long way from the days of studying pie charts and tables of figures in spreadsheets. Publications like The Pudding and the New York Times have helped take data visualization to a new level and it’s in this world that data viz consultant Robert Crocker excels. A globe-trotting digital nomad, Robert uses his skills in Tableau to bring real insight and business wins to some of the world’s largest companies. Let’s hear from Robert and see where his journey into the world of data visualization consulting began:_

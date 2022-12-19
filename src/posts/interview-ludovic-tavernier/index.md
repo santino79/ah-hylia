@@ -1,12 +1,11 @@
 ---
-title: Interview with Ludovic Tavernier
+title: Q&A with... Ludovic Tavernier
 excerpt: Data Consultant and Data Visualization Lead
 date: 2019-09-21
 featured_image: /images/content/ludovic-tavernier.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _Analysts Assemble is back for another round of interviews with data professionals from across the wide data spectrum. This time we have French data visualization lead **Ludovic Tavernier** in the hotseat._
 
@@ -30,7 +29,7 @@ In 2017, I decided to come back to the tool I tried a few years back: **Tableau 
 
 I discovered the Tableau community and took part of some dataviz challenges. It ended by bringing my first professional Tableau-related projects and by participating in the Tableau Software IronViz Finale in 2018!
 
-![Ludovic Tavernier's 2018 IronViz entry](img/ludovic-tavernier-ironviz2018.png)
+![Ludovic Tavernier's 2018 IronViz entry](/images/content/ludovic-tavernier-ironviz2018.png)
 ([Weather Memories built in 20 minutes during Tableau IronViz Contest](https://public.tableau.com/views/weathermemories/weathermemories?:embed=y&:display_count=yes&:toolbar=no&:origin=viz_share_link))
 
  
@@ -58,7 +57,7 @@ But it is a good moment to share what we do, to receive feedbacks and to go deep
 
 I do hope to reach the plateau of sustainability in the data visualization field during my lifetime, to feel confident enough to share every type of content.
 
-![Dunning-Kruger Effect graph](img/dunning-kruger-effect.jpg)
+![Dunning-Kruger Effect graph](/images/content/dunning-kruger-effect.jpg)
 
 **Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**
 

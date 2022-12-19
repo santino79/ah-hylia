@@ -1,12 +1,11 @@
 ---
-title: Interview with Michael Kaminsky
+title: Q&A with... Michael Kaminsky
 excerpt: Writer, Data Strategist and Entrepreneur
 date: 2019-09-28
 featured_image: /images/content/michael-kaminsky.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _It's hard to stand out as an online content creator these days. The web is awash with influencers, thought leaders, content marketers and what we used to just call bloggers. So it takes something pretty special to grab my attention._
 

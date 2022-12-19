@@ -1,12 +1,11 @@
 ---
-title: Interview with Samir Abid
+title: Q&A with... Samir Abid
 excerpt: Professional Sports Analytics Consultant
 date: 2019-03-10
 featured_image: /images/content/samir_hoodie_smile.jpg
 image_caption: 
 tags: 
-     - data
-     - interview
+     - interviews
 ---
 _This edition of Analysts Assemble takes us into the exciting world of professional sports analytics._
 
