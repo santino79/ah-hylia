@@ -9,7 +9,7 @@ socialImage: ''
 
 ## Currently, I&rsquo;m a staff data scientist at  [Zapier](https://zapier.com).
 
-I also interview data analysts at [Analysts Assemble](https://analystsassemble.com).
+I also interview data analysts in a series called [Analysts Assemble](/interviews/).
 
 And I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
 

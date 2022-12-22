@@ -13,7 +13,7 @@ _I&#8217;ve since found her to be one of the most helpful and approachable membe
 
 _**Over to Helen&#8230;**_
 
-**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**
+### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
 
 Hello! I’m **Helen Anderson** and I’m a Data Analyst and Technical Consultant on [Xero][2]’s Data Services team. I support Xero’s Analyst Community with code review, building datasets they need, maintaining the database they use for their work and providing guidance for junior analysts.
 
@@ -27,7 +27,7 @@ Since then I’ve worked for the [Royal NZ Ballet][3] working on revenue projec
 
 Making the move from working in Excel to coding in SQL happened when I joined Xero three years ago. I started in the Marketing team as an analyst pulling lists for email campaigns and doing post-campaign analysis. I was pretty late to the game when it came to using SQL, but was hooked. Now I am working in the BI team in a role that allows me to support those junior and not so technical analysts, who were ‘me’ three years ago while growing my technical skills working on projects to build data models a new database platform.
 
-**What’s a typical day look like for you in your current data role? (Which tools and languages do you use? Big team/small team/lone wolf? Office-based or remote?)**
+### What’s a typical day look like for you in your current data role? (Which tools and languages do you use? Big team/small team/lone wolf? Office-based or remote?)
 
 For the first time in my career, I’m on a big team of analysts, developers and engineers. There are almost 30 on the Data Services team. A big difference from being the lone analyst in most of my roles so far.
 
@@ -39,7 +39,7 @@ We have a team of analysts who work on ad-hoc data requests, a BI team that buil
 
 Because my role is to support Analysts in teams across the business I get to do a little bit of everything. Some days I’m building a custom data set in Redshift to support analysts work, showing them how to use Microstrategy to present their reports or troubleshooting the Airflow jobs that move data to the dedicated Aurora database we maintain to support their work.
 
-**You&#8217;ve built up a large following through your blogging. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**
+### You&#8217;ve built up a large following through your blogging. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
 
 I began blogging on my [self-hosted WordPress site][7] the last time I was on the job hunt. To no surprise, it wasn’t exactly flooded with new visitors.
 
@@ -55,13 +55,13 @@ This is all about your unique point of view. Which doesn&#8217;t mean you have t
 
 Even if you are beginner explaining how you are learning how to use a new tool, your perspective is important. You never know who may stumble across your post and find your explanation of a topic helps it all click into place for them.
 
-**Where do you see your own data career going next? Building on your technical skills as an Individual Contributor or moving into a more management-based role?**
+### Where do you see your own data career going next? Building on your technical skills as an Individual Contributor or moving into a more management-based role?
 
 I’m incredibly lucky to be on a team that encourages both. Right now I’m building up my knowledge of the quirks of PostgreSQL, as that’s the flavour of Aurora database the analysts I support have moved to. I’m working on gaining more of an understanding of the data pipelines that load the data in and the AWS services we use to build the infrastructure for my own interest and to get to know more about what our DevOps and Data Engineers do.
 
 I’m looking forward to supporting the junior analysts more as the analyst community grows and will be giving public speaking a go with my first tech talk really soon. Even though I’m not making the career change to Management I’m still able to support and teach those around me.
 
-**If you had a list of “best-kept-secrets” (websites, books, coaches), which would you recommend?**
+### If you had a list of “best-kept-secrets” (websites, books, coaches), which would you recommend?
 
 I put together a list of resources I think are [great for Junior Analysts][8] recently that cover not only the technical side with SQL but the human side too &#8211; requirements gathering, visualisation and communication.
 
@@ -81,7 +81,7 @@ Being a great data analyst or scientist is more than just churning out SQL and k
 
 By honing these skills, as well as building models and your technical skills, you’ll go far.
 
-**Where can readers find you online?**
+### Where can readers find you online?
 
 You can find me blogging regularly on [Dev.to][9], on [Twitter][10], on [LinkedIn][11] or my own [personal site][7].
 

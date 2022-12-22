@@ -9,7 +9,7 @@ tags:
 ---
 _My favourite finding in doing this **Analysts Assemble** series has been just how humble and genuinely helpful the data science community is. And this week&#8217;s guest is certainly no exception. I&#8217;d first read Katie&#8217;s excellent article on [SQL Joins](https://dev.to/katiekodes/every-sql-join-youll-ever-need-2hbd) on Dev.to and when fellow Dev blogger [Helen Anderson](https://analystsassemble.com/analysts-assemble-qa-helen-anderson/) recommended I speak to her for this series, I jumped at the opportunity. Katie takes us through her introduction to the world of programming, getting involved with the Salesforce eco-system and how she recommends people lift themselves, and others, up through building their overall skill-sets:_
 
-**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**
+### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
 
 Let&#8217;s get a few things out of the way. I&#8217;m white. I&#8217;m able-bodied. I speak English natively. I have no immigration worries. My childhood environments were safe and educational. I&#8217;m university-educated and had professional computer programmers as adult role models growing up.
 
@@ -57,7 +57,7 @@ _**Tools:**_
 
 Integration work is pretty &#8220;MacGyver&#8221;-ey. You access data with the tools your company invested in, and you cobble solutions together as effectively and efficiently as they allow.
 
-**You&#8217;ve had a great response to your own blog and your articles on Dev.to. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**
+### You&#8217;ve had a great response to your own blog and your articles on Dev.to. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
 
 I have priceless colleagues who don&#8217;t seem to share what they know far beyond the water cooler.
 
@@ -69,13 +69,13 @@ Meetups (including in-company user groups) and local conferences are a very forg
 
 You can always start a new blog as you &#8220;level up&#8221; your writing and speaking experience to consolidate your &#8220;best-of&#8221; moments and move on from your &#8220;newbie&#8221; days.
 
-**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**
+### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
 
 At the moment, technical skills interest me far more than managing people, as much as I love being around them.
 
 But never say never!
 
-**If you had a list of “best-kept-secrets” (websites, books, coaches) you’d recommend, which would you recommend?**
+### If you had a list of “best-kept-secrets” (websites, books, coaches) you’d recommend, which would you recommend?
 
 Alan, you gave me so much decision anxiety when you asked this question. I got stuck for days until I had added all the books at my office desk to the &#8220;resources&#8221; section of my website so they&#8217;d know I love them, too.
 
@@ -85,7 +85,7 @@ Other people will cover the big ones like FreeCodeCamp and Dev.to, so let me sha
 
 2. &#8220;[Introduction to Unix and Shell Programming](https://dealoz.com/prod?gtin=09788177587456&sort=total_cost%3Aasc)&#8221;  (Venkateshmurthy). This is published in India and can be hard to find in some countries, but it&#8217;s worth the effort. After many failed efforts, this was the friendly, thorough explanation that finally taught me Unix.
 
-**What is the number one piece of advice you give to aspiring data scientists?**
+### What is the number one piece of advice you give to aspiring data scientists?
 
 One? Just one? Can I pick two? Please?
 
@@ -113,7 +113,7 @@ Specialize in that as you start, to quickly ramp up into an employable niche.
 
 &#8220;Know what you don&#8217;t know,&#8221; though, and stay big-picture informed about what &#8220;data scientists&#8221; with other specialties are doing as time marches on. It&#8217;ll help you decide what new developments in your specialty are really relevant, and it&#8217;ll help you decide whether you&#8217;re interested in adding a new specialty.
 
-**Where can readers find you online?**
+### Where can readers find you online?
 
 [My personal site &#8211; Katie Kodes][1]
 
