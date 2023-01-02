@@ -1,6 +1,6 @@
 ---
 title: Q&A with... Alli Torban
-excerpt: Data Visualization Designer and host of the Data Viz Today podcast.
+excerpt: Data Visualization Designer and host of the Data Viz Today podcast
 date: 2019-10-05
 featured_image: /images/content/alli-torban.jpg
 image_caption: 

@@ -1,6 +1,6 @@
 ---
 title: Q&A with... David Napoli
-excerpt: Healthcare Analytics & Data Viz Consultant (and Recovering Rocket Scientist).
+excerpt: Healthcare Analytics & Data Viz Consultant (and Recovering Rocket Scientist)
 date: 2019-11-18
 featured_image: /images/content/david-napoli.jpg
 image_caption: 
