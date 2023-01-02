@@ -3,26 +3,26 @@
     "title": "Technical Director at Cura Fitness",
     "date": "2020-07-30",
     "description": "Cura Fitness is a boutique fitness studio based in County Down, Northern Ireland. I run the back office operations including finance, data, technology, systems and administration.",
-    "website": "https://curafitness.com/"
+    "link": "https://curafitness.com/"
   },
   {
     "title": "Interviewer at Analysts Assemble",
     "date": "2020-07-20",
     "description": "I interview top data analysts from a wide range of industries to find out about their career journey and how they build their data skills.",
-    "website": "https://alanhylands.com/interviews/"
+    "link": "https://alanhylands.com/interviews/"
   },
   {
     "title": "Course Creator at SQL Crash Course",
     "date": "2020-07-30",
     "description": "I created an online SQL course to help people build the solid groundwork they need to get up to speed quickly with SQL.",
-    "website": "https://sqlcrashcourse.com/",
+    "link": "https://sqlcrashcourse.com/",
     "repo": "https://github.com/santino79/simple-sql-crash-course"
   },
   {
     "title": "Writer here and elsewhere",
     "date": "2020-07-30",
     "description": "This is my personal website where I write articles on a variety of topics including business, personal finance, tech, careers, writing and my quest to build a simple kind of life. I've been a professional writer with clients including About.com and The New York Times Company. These days, I am a contributing writer on Towards Data Science, Hacker Noon and Dev.to.",
-    "website": "https://alanhylands.com/articles/"
+    "link": "https://alanhylands.com/articles/"
   },
   {
     "title": "Founder at Santinotech",
@@ -32,8 +32,7 @@
   {
     "title": "Liz's Lockets",
     "date": "2016-12-31",
-    "description": "Liz's Lockets was my wife's e-commerce business which sold memory lockets and costume jewellery. I built and ran the e-commerce store. I also appeared regularly as her Lovely Debbie McGee at craft fairs and markets when we took the business out on the road. Soon to be re-launched with our 9 year old daughter at the helm as her first taste of entrepreneurship.",
-    "website": "https://lizslockets.com"
+    "description": "Liz's Lockets was my wife's e-commerce business which sold memory lockets and costume jewellery. I built and ran the e-commerce store. I also appeared regularly as her Lovely Debbie McGee / Rodney Trotter at craft fairs and markets when we took the business out on the road. Soon to be re-launched with our daughters at the helm as their first taste of entrepreneurship."
   },
   {
     "title": "Sports Boffin",
@@ -53,7 +52,8 @@
   {
     "title": "State of the Game",
     "date": "2006-02-01",
-    "description": "State of the Game was a football blog I started in 2005. It grew massively for a few years and gave me the opportunity to become a professional football writer for About.com and The New York Times Company. I covered more of the back story in an article called I Want To Be A Football Writer When I Grow Up."
+    "description": "State of the Game was a football blog I started in 2005. It grew massively for a few years and gave me the opportunity to become a professional football writer for About.com and The New York Times Company. I covered more of the back story in an article called I Want To Be A Football Writer When I Grow Up.",
+    "link": "https://alanhylands.com/i-want-to-be-a-football-writer-when-i-grow-up/"
   },
   {
     "title": "White Storm",

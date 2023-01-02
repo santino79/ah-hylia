@@ -7,6 +7,16 @@ layout: 'layouts/page.njk'
 
 My name is Alan Hylands and I am a data analyst and writer from Northern Ireland.
 
+## What I'm doing now.
+
+![Zapier logo image](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760)
+
+In early 2020, I joined [Zapier](https://zapier.com) and am currently a Staff Data Scientist. (We're on a mission to Make Automation Work For Everyone. Interested in [joining us](https://zapier.com/jobs)?)
+
+![Cura Fitness Logo](https://curafitness.com/images/CuraFitnessLogo_400WWht.jpg)
+
+I am also Technical Director at [Cura Fitness](https://curafitness.com), our family boutique fitness studio based in County Down, Northern Ireland.
+
 ## What I've done.
 
 I've worked in tech, data and analytics for the past 20 years - building, reporting, analysing, managing and mentoring.
@@ -34,20 +44,8 @@ Quite unexpectedly, I was seduced into the corporate world of banking and financ
 
 I spent over twelve years running Data and Analytics projects for a large UK and Ireland banking group. I worked my way up through the ranks from senior data analyst to senior analytics manager to Head of Retail Commercial Excellence.
 
-## What I'm doing now.
-
-In early 2020, I joined [Zapier](https://zapier.com) as a Senior Data Scientist.
-
-I am also Technical Director at [Cura Fitness](https://curafitness.com), our family boutique fitness studio based in County Down, Northern Ireland.
+Then I decided that I'd had enough of management and wanted to get back into doing what I love best - digging into data and telling stories about what I find. And that's what brought me to Zapier.
 
 ## Where you can find me.
 
-You can contact by email: alan AT alanhylands DOT com 
-
-_or_
-
-On this [contact form](/contact/)
-
-_or_
-
-Follow me on [Twitter](https://twitter.com/AlanHylands) for occasional data hot takes and regular moaning about Tottenham Hotspur.    
+You can contact by email (alan AT alanhylands DOT com) _or_ on this [contact form](/contact/) _or_ take a chance on social media where I (very) occasionally post on [Twitter](https://twitter.com/AlanHylands) or [LinkedIn](https://linkedin.com/in/alanhylands).    
