@@ -19,7 +19,7 @@ I am also Technical Director at [Cura Fitness](https://curafitness.com), our fam
 
 ## What I've done.
 
-I've worked in tech, data and analytics for the past 20 years - building, reporting, analysing, managing and mentoring.
+I've worked in tech, data and analytics for the past 20+ years - building, reporting, analysing, managing and mentoring.
 
 ## I have:
 
@@ -38,7 +38,7 @@ Then I found the internet, programming and databases.
 
 I started my first e-commerce development agency in 2003. Since then I have worked on a number of small business start-ups in e-commerce, analytics, marketing, online research and content marketing.
    
-I started a successful football website which gave me the opportunity to write professionally for the New York Times Company.
+I started a successful football website which gave me the opportunity to write professionally for the New York Times Company. (Want to find out how that came about, check out my [I Want To Be A Football Writer When I Grow Up](/i-want-to-be-a-football-writer-when-i-grow-up/) article.)
 
 Quite unexpectedly, I was seduced into the corporate world of banking and financial services in the boom-time mid-noughties.
 

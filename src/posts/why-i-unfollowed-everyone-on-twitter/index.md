@@ -16,7 +16,7 @@ No, the problem I’ve got in mind is my addiction to aimless Twitter doom scrol
 
 Now don’t get me wrong, Twitter itself isn’t _necessarily_ the main problem. Yes, it’s a gaping gateway into hell in many parts but then so is a walk up the street in our town on any given Saturday afternoon.
 
-![Homer SImpson alcohol cause and answer all life problems](/images/content/homer-alcohol-life-problems.png)
+![Homer Simpson alcohol cause and answer all life problems](/images/content/homer-alcohol-life-problems.png)
 
 My attitude to Twitter is much like Homer Simpson’s attitude to alcohol - for me anyway, it’s the cause of, and the solution to, all of life’s problems. I’ve met some amazing people all across the world on Twitter and been introduced to a data community that is more than willing to help each other learn and grow.
 

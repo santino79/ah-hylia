@@ -4,21 +4,6 @@
       "text": "About",
       "url": "/about/",
       "external": false
-    },
-    {
-      "text": "Projects",
-      "url": "/projects/",
-      "external": false
-    },
-    {
-      "text": "Articles",
-      "url": "/articles/",
-      "external": false
-    },
-    {
-      "text": "Interviews",
-      "url": "/interviews/",
-      "external": false
     }
   ]
 }
