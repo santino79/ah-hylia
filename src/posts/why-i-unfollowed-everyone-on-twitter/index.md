@@ -8,6 +8,8 @@ tags:
      - tech
      - articles
 ---
+**UPDATE: As of early November 2024, I've given up on Twitter altogether. You can fill in the blanks for the reasons why. I now reside over at [Bluesky](https://bsky.app/profile/alanhylands.com) instead where I am currently curating some new lists to doomscroll over instead.**
+
 I’ve realised recently that I have a bit of a problem.
 
 This is the part of the sit-com episode where the main character admits this to a group of friends and they start to mention all of the problems that they see in them but don’t say the one they themselves were ready to ‘fess up about. _(You’ll notice there is no comment section at the bottom, I’m heading that one off at the metaphorical pass)._
