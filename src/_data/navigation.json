@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Writing",
+      "url": "/writing/",
+      "external": false
+    },
+    {
       "text": "About",
       "url": "/about/",
       "external": false

@@ -1,0 +1,28 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}{{ content | safe }}{% endset %}
+
+{# Post list content #}
+{% set postListHeading = '' %}
+{% set postListItems = collections.articles %}
+
+{% block content %}
+
+  <main id="main-content" tabindex="-1">
+    <article class="[ post ] [ h-entry ]">
+      {% include "partials/components/intro.njk" %}
+      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+      <h2>On tech, football, life...and more</h2>
+        {% include "partials/components/post-list.njk" %}
+
+      <h2>On data</h2>
+        <h3>Check out <a href="https://analystsassemble.com/">Analysts Assemble</a> where I write articles to help folks become better data analysts, 
+        and interview actual real-life data professionals.</h3>
+      </div>
+    </article>
+  </main>
+{% endblock %}
+
+
