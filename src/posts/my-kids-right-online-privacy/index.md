@@ -6,7 +6,7 @@ image_caption:
 excerpt: "Protecting my kids' privacy from the dangers of the online world is my gift to them."
 tags: 
      - personal
-     - articles
+     - essays
 ---
   
 I grew up in the dim and distant 1980s. Back then, it would have been absolutely unthinkable for a parent to print out hundreds of copies of every photo they took of their kids and send them out to every Tom, Dick or Harry they had a vague connection to.

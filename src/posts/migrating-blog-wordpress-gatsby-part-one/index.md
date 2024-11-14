@@ -6,7 +6,7 @@ image_caption:
 excerpt: "Migrating My Blog From Wordpress To Gatsby - Part 1"
 tags: 
      - tech
-     - articles
+     - essays
 ---
 ## Where it began.
 

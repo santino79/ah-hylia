@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Data Analyst & Writer
-postsHeading: Latest articles
-archiveButtonText: See all articles
+postsHeading: Latest writing
+archiveButtonText: See all writing
 metaDesc: 'Alan Hylands is a data analyst and writer from Northern Ireland.'
 socialImage: ''
 ---
@@ -15,4 +15,5 @@ And I help them get started learning SQL with my online [SQL Crash Course](https
 
 ### Want to know more?
 
-- See my <a href="/about/">About</a> page for some back story.
+- See my [About](/about/) page for some backstory and where else you can find or contact me
+- Or read some of my [selected essays](/writing/) on tech, football, life...and more.

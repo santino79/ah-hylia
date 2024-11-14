@@ -6,7 +6,7 @@ image_caption:
 excerpt: 
 tags: 
      - tech
-     - articles
+     - essays
 ---
 **UPDATE: As of early November 2024, I've given up on Twitter altogether. You can fill in the blanks for the reasons why. I now reside over at [Bluesky](https://bsky.app/profile/alanhylands.com) instead where I am currently curating some new lists to doomscroll over instead.**
 

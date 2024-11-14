@@ -6,7 +6,7 @@ image_caption:
 excerpt: "Migrating My Blog From Gatsby To Eleventy"
 tags: 
      - tech
-     - articles
+     - essays
 ---
 It’s something of an unwritten rule that the best way to get over procrastination on writing new material for your personal website is to rip it all to pieces and port the remains to a new Static Site Generator instead.
 

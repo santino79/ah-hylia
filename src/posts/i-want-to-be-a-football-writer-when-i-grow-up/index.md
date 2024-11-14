@@ -7,7 +7,7 @@ excerpt: "Chasing my professional football writing dream, catching it...and lett
 tags: 
      - writing
      - football
-     - articles
+     - essays
 ---
 ## Chasing my writing dream, catching it...and letting it go.
 

@@ -6,7 +6,7 @@ image_caption:
 excerpt: "The Video Assitant Referee system has infiltrated the English Premier League and the debate over it's merits and failings has only just begun. "
 tags: 
      - football
-     - articles
+     - essays
 ---
 ## So I dub thee Unforgiven.
 

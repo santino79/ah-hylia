@@ -6,7 +6,7 @@ image_caption:
 excerpt: "Mauricio Pochettino's reign as manager at Tottenham Hotpsur has ended. Alan considers the reasons why the most popular and successful manager of the past thirty years ultimately failed to stop the rot."
 tags: 
      - football
-     - articles
+     - essays
 ---
 > “We will try to give everything to make you proud of this football club.” - Mauricio Pochettino at his first Spurs press conference.
 
