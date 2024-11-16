@@ -16,9 +16,13 @@ And I help them get started learning SQL with my online [SQL Crash Course](https
 
 ### Writers write.
 
-I have previously been a [World Soccer editor](https://alanhylands.com/i-want-to-be-a-football-writer-when-i-grow-up/) for About.com and The New York Times Company, and had articles published in [Towards Data Science](https://towardsdatascience.com/becoming-an-analytics-manager-isnt-a-promotion-c3f65bbd0d95) and [Hacker Noon](https://hackernoon.com/fewer-dashboards-more-analysis-63581970672c).
+I have previously been a [World Soccer editor](https://alanhylands.com/i-want-to-be-a-football-writer-when-i-grow-up/) for About.com 
+and The New York Times Company, 
+and had articles published in [Towards Data Science](https://towardsdatascience.com/becoming-an-analytics-manager-isnt-a-promotion-c3f65bbd0d95) 
+and [Hacker Noon](https://hackernoon.com/fewer-dashboards-more-analysis-63581970672c).
+
+You can read some of my [selected essays](/writing/) here on tech, football, life...and more.
 
 ### Want to know more?
 
-- See my [About](/about/) page for some backstory, and where else you can find or contact me.
-- Or read some of my [selected essays](/writing/) on tech, football, life...and more.
+See my [About](/about/) page for some backstory, and where else you can find or contact me.
